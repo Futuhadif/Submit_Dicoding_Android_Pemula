@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Presiden Indonesia</string>
+
+    <string name="president_name">Nama Presiden</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">Tentang</string>
+    <string name="profile_name">Futuh Adif Perwira\n</string>
+    <string name="email">futuhadif@gmail.com</string>
+    <string name="presiden">Presiden Indonesia 1945-sekarang</string>
+    <string name="calon_presiden">Calon presiden 2024-2029</string>
+    <string name="biografi">Biografi</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="tanggal_lahir">Tanggal Lahir :</string>
+    <string name="latar_belakang">Latar Belakang : </string>
+    <string name="masa_jabatan">Masa Jabatan :</string>
+
+    <string-array name="data_name">
+        <item>Soekarno</item>
+        <item>Soeharto</item>
+        <item>Bj.Habibie</item>
+        <item>Abdurahman wahid</item>
+        <item>Megawati</item>
+        <item>Susilo bambang yudhoyono</item>
+        <item>Joko widodo</item>
+    </string-array>
+
+    <string-array name="data_name_calon">
+        <item>Prabowo Subianto</item>
+        <item>Ganjar Pranowo</item>
+        <item>Anies Baswedan</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Masa Jabatan: 1945-1967. Gambaran: Bapak Proklamator, pendiri Indonesia yang pertama, dan presiden pertama. Soekarno memimpin perjuangan kemerdekaan Indonesia dari penjajahan Belanda.</item>
+        <item>Masa Jabatan: 1967-1998. Gambaran: Pemimpin militer yang menggantikan Soekarno setelah kudeta 1965. Soeharto memimpin Indonesia selama lebih dari 30 tahun, dikenal dengan pembangunan ekonomi, tetapi juga dikritik karena pelanggaran hak asasi manusia.</item>
+        <item>Masa Jabatan: 1998-1999. Gambaran: Merupakan wakil presiden yang kemudian menjadi presiden setelah pengunduran diri Soeharto. Habibie memimpin selama kurang lebih satu tahun dan dikenang karena reformasi politik dan pemilu bebas pertama.</item>
+        <item>Masa Jabatan: 1999-2001. Gambaran: Juga dikenal sebagai Gus Dur, Wahid adalah presiden pertama yang terpilih melalui pemilihan langsung. Namun, masa jabatannya singkat dan dipenuhi dengan ketidakstabilan politik.</item>
+        <item>Masa Jabatan: 2001-2004. Gambaran: Megawati adalah putri Soekarno dan menjadi presiden wanita pertama Indonesia. Meskipun populer, masa jabatannya ditandai oleh tantangan ekonomi dan politik.</item>
+        <item>Masa Jabatan: 2004-2014. Gambaran: Juga dikenal sebagai SBY, Yudhoyono adalah presiden pertama yang terpilih secara langsung untuk dua periode. Masa jabatannya diwarnai oleh stabilitas ekonomi dan reformasi demokrasi.</item>
+        <item>Masa Jabatan: 2014-sekarang (per Januari 2022). Gambaran: Dikenal sebagai Jokowi, beliau adalah presiden pertama dari latar belakang non-militer dan non-elite politik. Jokowi fokus pada pembangunan infrastruktur dan reformasi ekonomi.</item>
+
+    </string-array>
+
+    <string-array name="data_description_calon">
+        <item>Prabowo Subianto, Ketua Umum Partai Gerindra yang lahir di Jakarta pada 17 Oktober 1951, telah mengumumkan kembali pencalonannya sebagai calon presiden. Sebelumnya, Prabowo memiliki sejumlah posisi strategis, termasuk Menteri Pertahanan RI pada periode 2019-2024 di bawah kepemimpinan Presiden Joko Widodo. Sebelumnya, ia menjabat sebagai Presiden Direktur PT Nusantara Energy dari tahun 2002-2019 dan Presiden Direktur PT Kertas Nusantara pada 2001-2009. Prabowo saat ini telah mendaftar sebagai calon presiden, dengan pendamping Gibran Rakabuming Raka.</item>
+        <item>Ganjar Pranowo, kader Partai Demokrasi Indonesia Perjuangan (PDI-P), telah mendaftar sebagai calon presiden untuk Pemilu 2024. Ia lahir di Karanganyar pada 10 Oktober 1968. Sebelum diumumkan sebagai calon presiden, Ganjar memiliki pengalaman signifikan, termasuk sebagai Gubernur Jawa Tengah pada periode 2013-2023. Selain itu, ia pernah menjabat sebagai Wakil Ketua Komisi II DPR RI pada periode 2009-2013, dan sebagai anggota Komisi IV DPR RI pada periode 2004-2009.</item>
+        <item>Anies Baswedan, adalah seorang tokoh politik dan pemerintahan Indonesia. Sebelum mencalonkan diri sebagai calon presiden, Anies memiliki sejumlah pengalaman dalam bidang politik dan pemerintahan. Ia pernah menjabat sebagai Gubernur DKI Jakarta pada periode 2017-2022, Menteri Pendidikan dan Kebudayaan pada periode 2014-2016, dan Rektor Universitas Paramadina pada periode 2007-2014.</item>
+
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/soekarno</item>
+        <item>@drawable/soeharto</item>
+        <item>@drawable/bjhabibijpg</item>
+        <item>@drawable/gusdur</item>
+        <item>@drawable/megawati</item>
+        <item>@drawable/sby</item>
+        <item>@drawable/jokowi</item>
+    </integer-array>
+
+    <integer-array name="data_photo_calon">
+        <item>@drawable/prabowo</item>
+        <item>@drawable/ganjar</item>
+        <item>@drawable/anies</item>
+
+    </integer-array>
+
+    <string-array name="data_masa_jabatan">
+        <item>1945-1967</item>
+        <item>1967-1998</item>
+        <item>1998-1999</item>
+        <item>1999-2001</item>
+        <item>2001-2004</item>
+        <item>2004-2014</item>
+        <item>2014-sekarang</item>
+    </string-array>
+
+    <string-array name="data_masa_jabatan_calon">
+        <item>Belum terpilih</item>
+        <item>Belum terpilih</item>
+        <item>Belum terpilih</item>
+    </string-array>
+
+    <string-array name="data_latar_belakang_presiden">
+        <item>Soekarno adalah proklamator dan Presiden pertama Indonesia. Dia adalah pemimpin nasionalis yang memainkan peran kunci dalam perjuangan kemerdekaan Indonesia dari penjajahan Belanda.</item>
+        <item>Soeharto, juga dikenal sebagai Pak Harto, adalah Presiden kedua Indonesia. Dia memegang jabatan tersebut selama 32 tahun, dari 1967 hingga 1998. Soeharto memimpin Indonesia melalui periode pembangunan ekonomi yang pesat, tetapi juga dikritik karena dituduh terlibat dalam pelanggaran hak asasi manusia.</item>
+        <item>Bacharuddin Jusuf Habibie, atau lebih dikenal sebagai BJ Habibie, adalah Presiden ketiga Indonesia. Ia menggantikan Soeharto pada tahun 1998 dan memimpin negara selama kurang lebih satu tahun. Habibie dikenal sebagai tokoh teknokrat dan ahli pesawat terbang.</item>
+        <item>Abdurrahman Wahid, yang akrab dipanggil Gus Dur, adalah Presiden keempat Indonesia. Dia adalah cendekiawan Muslim dan pemimpin Nahdlatul Ulama (NU), organisasi Islam terbesar di Indonesia. Wahid memimpin negara dari 1999 hingga 2001.</item>
+        <item>Megawati Soekarnoputri adalah Presiden Indonesia kelima dan merupakan putri dari Soekarno. Dia adalah presiden perempuan pertama di Indonesia, menjabat dari 2001 hingga 2004. Sebelumnya, Megawati menjabat sebagai Wakil Presiden.</item>
+        <item>Susilo Bambang Yudhoyono, dikenal sebagai SBY, adalah Presiden keenam Indonesia. Ia menjabat dua periode, dari 2004 hingga 2014. Sebelum terjun ke dunia politik, SBY adalah seorang perwira militer dan menjabat sebagai Kepala Staf Angkatan Darat.</item>
+        <item>Joko Widodo, yang dikenal dengan nama panggilan Jokowi, adalah Presiden Indonesia ke-7 yang menjabat sejak 20 Oktober 2014. Sebelum terjun ke dunia politik nasional, Jokowi memiliki latar belakang sebagai pengusaha dan politisi lokal. Ia memulai kariernya sebagai walikota Kota Solo pada tahun 2005 dan kemudian menjadi Gubernur DKI Jakarta sebelum terpilih sebagai Presiden. Pemerintahan Jokowi menekankan pada pembangunan infrastruktur, reformasi birokrasi, dan peningkatan pelayanan sosial. Ia terpilih untuk periode kedua pada Pemilihan Umum Presiden 2019.</item>
+    </string-array>
+
+    <string-array name="data_latar_belakang_calon_presiden">
+        <item>Prabowo Subianto adalah seorang mantan perwira militer dan politisi Indonesia. Ia pernah menjabat sebagai Komandan Resimen Pasukan Khusus Kopassus dan menikah dengan putri Soeharto, Siti Hediati Hariyadi (Titiek Soeharto). Prabowo terlibat dalam berbagai aspek kehidupan publik, termasuk politik. Ia mencalonkan diri sebagai calon presiden pada Pemilihan Umum Presiden Indonesia beberapa kali, termasuk pada Pemilihan Presiden 2019.</item>
+        <item>Ganjar Pranowo adalah politisi Indonesia yang saat ini menjabat sebagai Gubernur Jawa Tengah. Sebelum menjadi gubernur, Ganjar terlibat dalam politik sebagai anggota Dewan Perwakilan Rakyat (DPR) dan menjabat sebagai Menteri Pemuda dan Olahraga di Kabinet Indonesia Maju. Ia dianggap sebagai salah satu figur yang memiliki popularitas dan kinerja baik di level regional.</item>
+        <item>Anies Baswedan adalah seorang akademisi dan politisi Indonesia. Sebelum terjun ke dunia politik, Anies dikenal sebagai seorang intelektual dan pernah menjabat sebagai Rektor Universitas Paramadina. Pada 2017, Anies terpilih sebagai Gubernur DKI Jakarta. Kepemimpinannya di Jakarta menarik perhatian karena berbagai inisiatif dan kebijakan, serta tantangan yang dihadapi dalam penanganan isu-isu kota, seperti banjir dan transportasi.</item>
+    </string-array>
+
+    <string-array name="data_tanggal_lahir_presiden">
+        <item>6 Juni 1901</item>
+        <item>8 Juni 1921</item>
+        <item>25 Juni 1936</item>
+        <item>September 1940</item>
+        <item>23 Januari 1947</item>
+        <item>9 September 1949</item>
+        <item>21 Juni 1961</item>
+    </string-array>
+
+    <string-array name="data_tanggal_lahir_calon_presiden">
+        <item>17 Oktober 1951</item>
+        <item>8 Juli 1968</item>
+        <item>7 Mei 1969</item>
+    </string-array>
+</resources>

@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Presiden" parent="Theme.Material3.DayNight">
+
+        <item name="colorPrimary">@color/gray_light</item>
+        <item name="colorPrimaryVariant">@color/gray_dark</item>
+        <item name="colorOnPrimary">@color/red</item>
+        <item name="actionMenuTextColor">@color/red</item>
+        <item name="actionBarItemBackground">@color/red</item>
+
+        <!-- Secondary Brand color-->
+        <item name="colorSecondary">@color/gray</item>
+        <item name="colorSecondaryVariant">@color/orange_light</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status Bar color -->
+        <item name="android:statusBarColor" tools:targetAp1  ="1">?attr/colorPrimary</item>
+
+    </style>
+
+
+    <style name="Theme.App.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/bg</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.Presiden</item>
+
+    </style>
+
+    <style name="Theme.Presiden" parent="Base.Theme.Presiden" />
+</resources>
